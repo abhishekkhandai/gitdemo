@@ -1,4 +1,0 @@
-
-Hii I am Abhishek. I am 24 years old.
-
-This session covers the git commands and github repositary usage
